@@ -14,7 +14,6 @@ Sonic futures is a poetic soundwalk experience in a park that explores the wisdo
 
 ### Humans
 <pre>
-
 Something sticks
 and then breaks open
 it hums, follows
