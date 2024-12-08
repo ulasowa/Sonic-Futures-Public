@@ -1,6 +1,7 @@
 title: Sonic Futures
 logo: docs/assets/photo.jpg
 description: Ula Sowa Przybylska ︳Prof. Dr. Angela Brennecke ︳ Dr. Eleni-Ira Panourgia ︳Katja Marie Voigt ︳Linnéa Haviland
+secondary_logo: docs/assets/IKF_Logo.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
