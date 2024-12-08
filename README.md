@@ -10,25 +10,27 @@ Sonic futures is a poetic soundwalk experience in a park that explores the wisdo
 
 ### Humans
 
-Something sticks
-and then breaks open
-it hums, follows
+![Audio](docs/assets/poem1.mp3)
+
+Something sticks  
+and then breaks open  
+it hums, follows  
 	coordination and distance. 
 
-Sky highway,
-		teach us
+Sky highway,  
+		teach us  
 direction! 
 
-I hum, follow
+I hum, follow  
 murmurations. 
 
-Swarming, growing,
-creating better
-I try to be in harmony,
+Swarming, growing,  
+creating better  
+I try to be in harmony,  
 	make decisions.
 
-Heat under the veil,
-I'm sweating – 
-something sticks on my skin
-like background noise. 
+Heat under the veil,  
+I'm sweating –   
+something sticks on my skin  
+like background noise.   
 
