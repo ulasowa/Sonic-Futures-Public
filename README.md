@@ -6,11 +6,9 @@ Sonic futures is a poetic soundwalk experience in a park that explores the wisdo
 
 - ## Poems
 
-![](docs/assets/play-button.png)
+
 
 ### Humans
-
-//![Audio](docs/assets/poem1.mp3),
 
 <audio controls>
   <source src="docs/assets/poem1.mp3" type="audio/mp3">
